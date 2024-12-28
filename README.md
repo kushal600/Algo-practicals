@@ -66,6 +66,13 @@ Contributions are welcome! To contribute:
 ## Acknowledgments
 - Classic algorithms inspired by standard textbooks and online resources.
 - Thanks to the open-source community for the inspiration to share knowledge.
+---
+
+## Author
+
+- **Kushal Shahpatel**  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shahpatel-kushal-4a4a901b6/)  
+- GitHub: [GitHub Profile](https://github.com/kushal600)
 
 ---
 Feel free to expand or modify this README as needed for your repository!
